@@ -1,40 +1,63 @@
-<h1 align="center">Hi 👋, I'm Web Designer Rohan</h1>
-<h3 align="center">I am a passionate web designer and a good brother and friend</h3>
+<div align="center">
+  <img src="https://i.ibb.co/bRrVSkNm/1o9bb.jpg" alt="Tech Banner" width="100%">
+  
+  <br>
+  
+  <img src="https://i.ibb.co/8Dhp4fR8/profile.jpg" width="120" style="border-radius:50%">
+  
+  <h1>Hi 👋, I'm Web Designer Rohan <sub>(He/Him)</sub></h1>
+  
+  <p>
+    <img src="https://i.ibb.co/Mxz3pRzR/1663786260509.gif" width="100">
+    <br>
+    <em>Turning ideas into interactive experiences</em>
+  </p>
+</div>
 
-<p align="left"> <a href="https://twitter.com/rohanbiswa85150" target="blank"><img src="https://img.shields.io/twitter/follow/rohanbiswa85150?logo=twitter&style=for-the-badge" alt="rohanbiswa85150" /></a> </p>
+## 🛠️ Technical Toolkit
 
-- 🔭 I’m currently working on a [E-Commerce Websites](https://themewagon.github.io/organic/)
+| Category        | Technologies                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Frontend**    | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Backend**     | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Design**      | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white) |
 
-- 🌱 I’m currently learning **Cyber Security And Ethical Hacking**
+## 🚀 Featured Project
 
-- 👨‍💻 All of my projects are available at [https://3d-portfolio-starter-kit.vercel.app/](https://3d-portfolio-starter-kit.vercel.app/)
+[![3D Portfolio](https://img.shields.io/badge/🌟_My_3D_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://3d-portfolio-starter-kit.vercel.app/)
 
-- 📝 I regularly write articles on [https://vulnvault.blogspot.com/](https://vulnvault.blogspot.com/)
+## 🧠 Currently Learning
 
-- 💬 Ask me about **Web Design**
+```diff
++ Ethical Hacking
++ Network Security
++ Cryptography
+! "Security isn't a feature, it's a necessity"
+```
 
-- 📫 How to reach me **biswasrohan100@gmail.com**
+## 🌟 My Work Ethic
 
-- 📄 Know about my experiences [https://openinapp.link/m2plkiquelinks&utlId=hf732502cc2](https://openinapp.link/m2plkiquelinks&utlId=hf732502cc2)
+```diff
+# Collaboration Style:
+- 🤝 Team-first mentality
+- 🔥 Passion-driven development
+- 🎯 Deadline-conscious
+- 💡 Creative problem-solving
 
-- ⚡ Fun fact **Code so clean, even my coffee stays awake to admire it!**
+@ Personality:
++ Friendly & approachable
++ Always willing to help
++ Persistent until perfection
+```
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 📬 Let's Connect
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/web designer rohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="web designer rohan" height="30" width="40" /></a>
-<a href="https://twitter.com/rohanbiswa85150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohanbiswa85150" height="30" width="40" /></a>
-<a href="https://instagram.com/web_designer_rohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="web_designer_rohan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/web designer rohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="web designer rohan" height="30" width="40" /></a>
-<a href="/https://vulnvault.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://vulnvault.blogspot.com/" height="30" width="40" /></a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-@web__designer__rohan-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/web_designer_rohan?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+[![Email](https://img.shields.io/badge/Email-biswasrohan100@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:biswasrohan100@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3D_Showcase-000000?style=flat&logo=vercel&logoColor=white)](https://3d-portfolio-starter-kit.vercel.app/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=web-designer-rohan&show_icons=true&locale=en" alt="web-designer-rohan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=web-designer-rohan&" alt="web-designer-rohan" /></p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views">
+  <br>
+  <em>"Code with passion, deploy with precision"</em>
+</div>
