@@ -3,13 +3,9 @@
   
   <br>
   
-  <img src="https://i.ibb.co/8Dhp4fR8/profile.jpg" width="120" style="border-radius:50%">
-  
   <h1>Hi 👋, I'm Web Designer Rohan <sub>(He/Him)</sub></h1>
   
   <p>
-    <img src="https://i.ibb.co/Mxz3pRzR/1663786260509.gif" width="100">
-    <br>
     <em>Turning ideas into interactive experiences</em>
   </p>
 </div>
