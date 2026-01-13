@@ -3,7 +3,7 @@
 </div>
   <br>
   # Hi, I'm Web-Dev-Rohan 👋
-
+  <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F7EF05&width=435&lines=I'm+Web-Dev-Rohan;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 
   
