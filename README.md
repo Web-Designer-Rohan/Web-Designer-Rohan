@@ -11,9 +11,13 @@
   # 💫 About Me:
 🔭 Currently working on: High-quality web apps, portfolios, and automation workflows<br>👯 Open to collaborate on: Frontend, UI/UX-focused, and SaaS-style projects<br>🤝 Looking for help with: DevOps best practices and system scaling<br>🌱 Currently learning: Advanced DevOps, performance, and system design<br>💬 Ask me about: React, TypeScript, HTML, CSS, Tailwind, prompt engineering, and automation<br>⚡ Fun fact: I ship faster than most people finish planning 😄
 
-# 🏆 Github Trophies:
-![My Trophies](https://raw.githubusercontent.com/Web-Designer-Rohan/Web-Designer-Rohan/trophy-stats/trophy.svg)
+# 🏆 My GitHub Achievements
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Web-Designer-Rohan&show_icons=true&theme=monokai&hide_border=false&count_private=true" alt="Rohan's Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Web-Designer-Rohan&layout=compact&theme=monokai&hide_border=false" alt="Top Languages" />
+</p>
 
 
 # 💻 Tech Stack:
