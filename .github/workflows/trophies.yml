@@ -1,0 +1,29 @@
+name: Generate Trophies
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every 24 hours
+  workflow_dispatch: # Allows manual run
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Generate Trophies
+        uses: ryo-ma/github-profile-trophy@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          username: Web-Designer-Rohan
+          theme: monokai
+          # This saves the trophies to the current directory
+          # We will then push it to a separate branch
+          
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .
+          publish_branch: trophy-stats
+          
