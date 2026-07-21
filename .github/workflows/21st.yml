@@ -1,0 +1,28 @@
+name: 21st.dev CLI Example
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  example:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install 21st.dev CLI
+        run: npm install -g @21st-dev/cli
+
+      - name: Verify 21st.dev CLI
+        env:
+          API_KEY_21ST: ${{ secrets.API_KEY_21ST }}
+        run: ./scripts/verify-21st.sh
